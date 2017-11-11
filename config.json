@@ -1,7 +1,7 @@
 {
-    "name": "Dospert_rt: Domain specific risk taking Survey",
+    "name": "Dospert_rp: Domain Specific Risk Taking Survey",
     "template":"survey",
-    "exp_id": "dospert-rt-survey",
+    "exp_id": "dospert-rp-survey",
     "url": "https://github.com/expfactory-experiments/dospert-rt-survey",
     "instructions": "Please complete the survey questions.",
     "description": "This is the dospert reaction timse task",
